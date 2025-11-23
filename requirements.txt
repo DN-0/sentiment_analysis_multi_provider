@@ -1,0 +1,17 @@
+pandas~=2.3.3
+tqdm~=4.67.1
+scikit-learn~=1.7.2
+torch~=2.9.1
+transformers~=4.57.1
+requests~=2.32.5
+openai~=2.8.1
+
+
+
+# Notebook support
+jupyter
+ipykernel
+reportlab
+
+# Optional: environment management
+python-dotenv
