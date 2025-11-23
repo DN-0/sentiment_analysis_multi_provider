@@ -1,4 +1,4 @@
-# sentiment-analysis_multi_provider
+# sentiment_analysis_multi_provider
 
 # Multi-Backend Sentiment Analysis (HuggingFace • OpenAI • Ollama)
 
